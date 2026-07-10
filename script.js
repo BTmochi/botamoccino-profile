@@ -10,6 +10,7 @@
       { img: "img/fanart-07.jpg", author: "古都こと", handle: "@waa_waa_wa", date: "", caption: "もちーのせーらー", url: "https://x.com/waa_waa_wa/status/2043287362814525817" },
       { img: "img/fanart-08.jpg", author: "ことさぶ郎", handle: "@furuichi_koto25", date: "", caption: "抱き枕(非売品)", url: "https://x.com/furuichi_koto25/status/2043697074458550380" },
       { img: "img/fanart-09.jpg", author: "古都こと", handle: "waa_waa_wa", date: "", caption: "もちもち～", url: "https://x.com/waa_waa_wa/status/2045863876210909664" },
+      { img: "img/fanart-11.jpg", author: "古都こと", handle: "waa_waa_wa", date: "", caption: "ほろよいーの", url: "https://x.com/waa_waa_wa/status/2056016849993879848" },
       { img: "img/fanart-10.jpg", author: "ちの", handle: "@chino2047", date: "", caption: "可愛すぎて描いた", url: "https://twitter.com/chino2047/status/2061335771102203921" }
     ];
 

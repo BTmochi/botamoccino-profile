@@ -41,7 +41,7 @@
       fanartData.forEach(function (item, i) {
         var thumb = document.createElement('div');
         thumb.className = 'fanart-thumb animate-in';
-        thumb.style.animationDelay = (0.65 + i * 0.04) + 's';
+        thumb.style.animationDelay = (0.75 + i * 0.04) + 's';
         thumb.setAttribute('role', 'button');
         thumb.setAttribute('tabindex', '0');
         thumb.setAttribute('aria-label', item.author + 'さんのファンアートを見る');

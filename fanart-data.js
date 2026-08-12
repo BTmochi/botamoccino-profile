@@ -12,5 +12,6 @@ window.fanartData = [
   { img: "img/fanart-09.jpg", author: "古都こと", handle: "@waa_waa_wa", date: "", caption: "もちもち～", url: "https://x.com/waa_waa_wa/status/2045863876210909664" },
   { img: "img/fanart-11.jpg", author: "古都こと", handle: "@waa_waa_wa", date: "", caption: "ほろよいーの", url: "https://x.com/waa_waa_wa/status/2056016849993879848" },
   { img: "img/fanart-10.jpg", author: "ちの", handle: "@chino2047", date: "", caption: "可愛すぎて描いた", url: "https://twitter.com/chino2047/status/2061335771102203921" },
-  { img: "img/fanart-12.jpg", author: "とととい", handle: "@8tototoi8", date: "", caption: "ぼたもちーのさん！", url: "https://x.com/8tototoi8/status/2075868890803077121" }
+  { img: "img/fanart-12.jpg", author: "とととい", handle: "@8tototoi8", date: "", caption: "ぼたもちーのさん！", url: "https://x.com/8tototoi8/status/2075868890803077121" },
+  { img: "img/fanart-13.png", author: "ちの", handle: "@chino2047", date: "", caption: "少し修正しました…白くてちっちゃくてかわいいぼたもちさん！", url: "https://x.com/chino2047/status/2086978798436933826?s=20" }
 ];
